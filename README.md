@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Chris Miller
+**Kotlin Developer | Compose | Ktor | Multiplatform | AI + Blockchain Enthusiast**
 
-<!--
-**blkcrkdev-droid/blkcrkdev-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building modern Android, Web, and backend applications with Kotlin and Compose.
+My repositories showcase practical Kotlin examples for real-world use — from Compose UIs to Ktor APIs.
 
-Here are some ideas to get you started:
+🚀 **Highlighted Projects**
+- 🧱 [compose-todo-app](https://github.com/blkcrkdev-droid/compose-todo-app): Jetpack Compose + Room + Flow
+- ⚙️ [ktor-api-starter](https://github.com/blkcrkdev-droid/ktor-api-starter): Ktor REST API with JWT + Docker
+- 🧭 [kmp-notes-app](https://github.com/blkcrkdev-droid/kmp-notes-app): Kotlin Multiplatform app (Android + iOS)
+- 🤖 [ai-assistant-demo](https://github.com/blkcrkdev-droid/ai-assistant-demo): Compose chat UI powered by OpenAI API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always learning, always building.
+
+📫 Connect on [LinkedIn](https://linkedin.com/in/yourprofile)  
+🌐 Portfolio: [blkcreek.io](https://blkcreek.io) *(coming soon)*
